@@ -18,6 +18,7 @@ html, body{
     justify-content: space-between;
 }
 nav ul{
+    font-weight: 500;
     display: flex;
     margin: 0 10px;
     align-items: center;
